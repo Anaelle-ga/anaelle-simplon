@@ -1,0 +1,24 @@
+p1 {
+	color:  hotpink;
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+}
+body {
+	font-family : Georgia;
+
+}
+h1 {
+	border:2px solid black;
+	max-width: 50%;
+
+	text-shadow: 2px 2px 5px #495057; /* Pour faire un ombrage de texte */
+}
+body{
+	background-image: linear-gradient(#fcd5ce, #ade8f4);  /* Pour mettre le fond en dégradé */
+}
+a {
+	background-color: #f0efeb;
+}
